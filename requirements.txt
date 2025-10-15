@@ -1,0 +1,24 @@
+# ---- Core Dependencies ----
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+
+# ---- Hugging Face Transformers ----
+transformers==4.44.2
+torch==2.3.1
+sentencepiece==0.2.0
+
+# ---- Speech & Audio Processing ----
+SpeechRecognition==3.10.4
+pydub==0.25.1
+audio-recorder-streamlit==0.0.8
+
+# ---- Visualization ----
+matplotlib==3.9.2
+
+# ---- Utilities ----
+protobuf==5.27.2
+requests==2.32.3
+
+# Optional: faster downloads + audio handling
+ffmpeg-python==0.2.0
