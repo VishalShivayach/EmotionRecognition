@@ -19,7 +19,7 @@ It identifies emotions like **Joy, Sadness, Anger, Fear, Surprise, Love, and Neu
 
 ## 🎬 Demo
 
-![Demo GIF](assets/demo.gif)  
+![Demo GIF](images.png)  
 *Example: Live voice input and text emotion detection with interactive bar chart visualization.*
 
 ---
