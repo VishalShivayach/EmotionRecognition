@@ -48,13 +48,15 @@ It identifies emotions like **Joy, Sadness, Anger, Fear, Surprise, Love, and Neu
 ---
 
 ## 📂 Project Structure
-EmotionRecognition/
+```EmotionRecognition/
 │
 ├── app.py # Main Streamlit app
 ├── requirements.txt # Python dependencies
 ├── README.md # Documentation
 ├── assets/ # Screenshots, GIFs, icons, etc.
 └── notebooks/ # Jupyter experiments
+
+
 
 
 ---
