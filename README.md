@@ -1,5 +1,5 @@
-🎙️ Text & Speech Emotion Classifier
-🧠 An AI-powered web app that detects emotions from both text and speech using cutting-edge NLP and speech recognition models.
+# 🎙️ Text & Speech Emotion Classifier
+🧠 **AI-powered web app that detects emotions from both text and speech** using state-of-the-art NLP and speech recognition models.  
 
 🚀 Overview
 The Text & Speech Emotion Classifier uses Hugging Face Transformers and Speech Recognition to analyze emotional tone from:
